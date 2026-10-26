@@ -4,9 +4,9 @@ Fork this repository once for your team and use the fork as the single record of
 
 ## Project information
 
-- **Project title:** [Replace with your project title]
-- **Team members:** [Replace with names]
-- **Repository URL:** [Replace with the URL of your team's fork]
+- **Project title:** Predicting National CO₂ Emissions Using Economic and Energy Indicators
+- **Team members:** Dylan Wang, Yipeng Cao, Lani Le
+- **Repository URL:** https://github.com/yilinw762/group-17
 
 ## Repository structure
 
